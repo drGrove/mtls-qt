@@ -1,0 +1,12 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "==3.8.4"
+black = "==20.8b1"
+
+[packages]
+mtls = "==0.15.0"
+pyqt5 = "==5.15.1"
