@@ -4,7 +4,8 @@ desc = "A short-lived certificate tool based on the Zero Trust network mode"
 
 setup(
     name="mtls-qt",
-    author="Danny Grove <danny@drgrovellc.com>",
+    author="Danny Grove",
+    author_email="danny@drgrovellc.com",
     url="https://github.com/drGrove/mtls-qt",
     description=desc,
     long_description=open("README.md").read(),
